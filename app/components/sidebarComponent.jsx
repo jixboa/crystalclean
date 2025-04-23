@@ -111,7 +111,7 @@ export default function SidebarComponent() {
           className={`w-6 h-6 duration-500 ${!open && " rotate-[360deg]"}`}
         />
         <h3 className={`duration-300 ${!open && "scale-0 h-0 w-0"}`}>
-          Shop Guard
+          MenNak Sanitation
         </h3>
       </div>
       <div className="p-5 items-center">
